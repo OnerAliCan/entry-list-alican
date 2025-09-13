@@ -1,0 +1,14 @@
+{
+    "name": "entry-list-alican",
+    "version": "1.0.2",
+    "main": "List.jsx",
+    "files": [
+        "*.jsx",
+        "data",
+        "assets"
+    ],
+    "peerDependencies": {
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0"
+    }
+}

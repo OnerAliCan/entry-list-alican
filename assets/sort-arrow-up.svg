@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<svg 
+  viewBox="0 0 50 50" 
+  xmlns="http://www.w3.org/2000/svg">
+
+  <g>
+    <polygon points="25,1.5 4.7,23 45.3,23" fill="#1976d2"/>
+    
+    <polygon points="25,48.5 45.3,27 4.7,27" fill="#DCDCDC"/>
+  </g>
+</svg>

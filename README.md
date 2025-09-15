@@ -1,7 +1,3 @@
-Pour ton package `EntryList`, ton `README.md` doit être **clair et explicite**, surtout si quelqu’un d’autre (ou toi plus tard) doit l’utiliser. Voici un exemple structuré que tu peux adapter :
-
----
-
 ````md
 # EntryList
 
@@ -15,7 +11,13 @@ A reusable React component for displaying an employee list with search, sorting,
 - Select number of entries per page
 - Fully modular components
 
+## Prerequisites
+
+- **Node.js**: v22.15.0  
+- **React**: 19.1.1  
+
 ## Installation
+
 
 ```bash
 npm install entry-list-alican

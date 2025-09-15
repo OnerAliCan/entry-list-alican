@@ -13,7 +13,7 @@ A reusable React component for displaying an employee list with search, sorting,
 ## Prerequisites
 
 - **Node.js**: v22.15.0  
-- **React**: 19.1.1  
+- **React**: 19.0.0
 
 ## Installation
 

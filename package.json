@@ -1,18 +1,24 @@
 {
     "name": "entry-list-alican",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "A reusable React component for displaying an employee list with search, sorting, pagination, and entries-per-page dropdown.",
     "author": "Ali Can ONER",
-    "keywords": ["list", "react", "entry", "react 19.0.0", "pagination", "dropdown"],
+    "keywords": [
+        "list",
+        "react",
+        "entry",
+        "react 19.0.0",
+        "pagination",
+        "dropdown"
+    ],
     "main": "List.jsx",
     "files": [
-      "*.jsx",
-      "data",
-      "assets"
+        "*.jsx",
+        "data",
+        "assets"
     ],
     "peerDependencies": {
-      "react": "^19.0.0",
-      "react-dom": "^19.0.0"
+        "react": "^19.0.0",
+        "react-dom": "^19.0.0"
     }
-  }
-  
+}

@@ -1,6 +1,6 @@
 {
     "name": "entry-list-alican",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "A reusable React component for displaying an employee list with search, sorting, pagination, and entries-per-page dropdown.",
     "author": "Ali Can ONER",
     "keywords": [

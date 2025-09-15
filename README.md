@@ -1,6 +1,5 @@
-````md
-# EntryList
 
+# EntryList
 A reusable React component for displaying an employee list with search, sorting, pagination, and entries-per-page dropdown.
 
 ## Features
@@ -42,13 +41,14 @@ export default function EntryList() {
   )
 }
 ```
-
 ## Props
 
-| Prop           | Type  | Description                            |
-| -------------- | ----- | -------------------------------------- |
-| `entries`      | array | Array of employee objects              |
-| `tableHeaders` | array | Array of objects with `{ key, label }` |
+```
+| Prop           | Type    | Description                           |
+|----------------|---------|---------------------------------------|
+| `entries`      | `array` | Array of employee objects             |
+| `tableHeaders` | `array` | Array of objects with `{ key, label }`|
+```
 
 ## Structure
 
